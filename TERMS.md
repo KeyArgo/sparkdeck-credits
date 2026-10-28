@@ -9,7 +9,8 @@ the terms below, as they exist at that commit and as reasonably updated after.
    and fitness are not guaranteed.
 
 2. **Accounts & keys.** One key per person, issued after your first accepted
-   contribution. Don't share it; you're responsible for use of your key.
+   contribution. Don't share it; you're responsible for your key and for
+   what it's used for.
 
 3. **Fair use.** Rate and credit limits apply. Empty balance or abuse
    (hammering, automated scraping beyond normal use, probing infrastructure)
@@ -22,7 +23,8 @@ the terms below, as they exist at that commit and as reasonably updated after.
    transit over the public internet (TLS).
 
 5. **Your content.** Generated output and submitted code are yours; you're
-   responsible for their legality and for what you do with them.
+   solely responsible for their legality and for any action you take based
+   on them or on the service.
 
 6. **Credits.** Non-monetary, no cash value, non-transferable, revocable,
    and not wages or compensation for employment. Redemption rates and the

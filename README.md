@@ -26,7 +26,7 @@ Self-hosted LLM inference, paid in contribution-credits.
    tokens, input/output):
 
        GLM-5.3-Flash-EXL3   30 / 30
-       spark-e              15 / 15
+       Qwen3.8-Flash-Next   15 / 15
 
    1 credit = $0.01 of table value; cached input tokens count half.
    Empty balance = key pauses (HTTP 402) until your next grant.

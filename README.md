@@ -25,7 +25,7 @@ Self-hosted LLM inference, paid in contribution-credits.
 5. **Burn** — inference costs credits per token. Rates (credits per 1M
    tokens, input/output):
 
-       GLM-5.3-Flash-EXL3   30 / 30
+       GLM-5.3-Flash        30 / 30
        Qwen3.8-Flash-Next   15 / 15
 
    1 credit = $0.01 of table value; cached input tokens count half.

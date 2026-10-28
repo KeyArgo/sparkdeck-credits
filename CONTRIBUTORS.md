@@ -8,5 +8,4 @@ Format: `- @handle alias=<your-alias> YYYY-MM-DD`
 <!-- add yourself below -->
 
 - example: `- @octocat alias=guest-dana 2026-11-01`
-
 - @Pukujan alias=guest-pukujan 2026-10-27

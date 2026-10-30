@@ -9,3 +9,4 @@ Format: `- @handle alias=<your-alias> YYYY-MM-DD`
 
 - example: `- @octocat alias=guest-dana 2026-11-01`
 - @Pukujan alias=guest-pukujan 2026-10-27
+- @dad (operator-entered) alias=guest-dad 2026-10-28

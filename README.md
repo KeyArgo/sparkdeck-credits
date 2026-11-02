@@ -1,9 +1,14 @@
 # sparkdeck-credits
 
-Self-hosted LLM inference, paid in contribution-credits.
+A small, private co-share of the operator's home AI hardware among friends,
+family and a few invited contributors. **This is not a public or commercial
+service:** nothing is sold, there's no open sign-up, and access is by personal
+invitation only.
 
-> **Alpha.** Invite-only test. Rewards, rates, limits and logging are
+> **Alpha.** Private, invite-only test. Rewards, rates, limits and logging are
 > experimental and may change at any time — see `TERMS.md`.
+
+If you've been invited:
 
 1. **Find work** — bugs, features, docs, regressions in the operator's
    public repos. Quality is the only bar that matters; Claude and Codex
@@ -25,7 +30,7 @@ Self-hosted LLM inference, paid in contribution-credits.
    Cap: 1250 credits per PR. Exceptional work: ask the operator for a
    manual top-up (`grant`).
 
-5. **Burn** — inference costs credits per token, with separate input and
+5. **Burn** — usage costs credits per token, with separate input and
    output rates per model. Current rates are shown on your account page and
    may change during the alpha. Credits are points, not money.
    Empty balance = key pauses (HTTP 402) until your next grant.

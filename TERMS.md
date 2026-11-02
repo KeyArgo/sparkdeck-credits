@@ -1,4 +1,4 @@
-# sparkdeck guest inference — terms of service
+# sparkdeck co-share — terms
 
 > **Alpha.** This is an early test. Rates, rewards, limits, logging and these
 > terms are experimental and may change at any time.
@@ -6,10 +6,13 @@
 By adding yourself to `CONTRIBUTORS.md` (the "signature commit"), you agree to
 the terms below, as they exist at that commit and as reasonably updated after.
 
-1. **The service.** Access to a self-hosted LLM inference endpoint ("the
-   endpoint") in exchange for accepted contributions, measured in credits.
-   Provided **as-is, without warranty of any kind**; availability, accuracy,
-   and fitness are not guaranteed.
+1. **What this is.** A small, private, invite-only co-share of the
+   operator's home hardware ("the endpoint") with friends, family and a few
+   invited contributors, in exchange for accepted contributions measured in
+   credits. It is **not a public or commercial service**: nothing is sold, and
+   access is by personal invitation only and can end at any time. Provided
+   **as-is, without warranty of any kind**; availability, accuracy and
+   fitness are not guaranteed.
 
 2. **Accounts & keys.** One key per person, issued after your first accepted
    contribution. Don't share it; you're responsible for your key and for
@@ -28,7 +31,7 @@ the terms below, as they exist at that commit and as reasonably updated after.
 
 5. **Your content.** Generated output and submitted code are yours; you're
    solely responsible for their legality and for any action you take based
-   on them or on the service.
+   on them or on the endpoint.
 
 6. **Credits.** Non-monetary, no cash value, non-transferable, revocable,
    and not wages or compensation for employment. Redemption rates and the

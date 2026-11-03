@@ -32,6 +32,9 @@ If you've been invited:
    per week; a PR over the weekly cap is paid the following week. Line count
    is only a rough size: exceptional work gets a manual top-up (`grant`).
 
+   Credits expire 6 months after you earn them (oldest first), and a balance
+   tops out at 3,000; see `TERMS.md` §6.
+
    These rewards apply to PRs merged from 2026-11-03. Earlier merges were
    paid on the previous table (50 / 250 / 500 / 1000, +250 for tests, cap
    1250), and that pay stands.

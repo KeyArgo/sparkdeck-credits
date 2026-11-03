@@ -36,7 +36,10 @@ the terms below, as they exist at that commit and as reasonably updated after.
 6. **Credits.** Non-monetary, no cash value, non-transferable, revocable,
    and not wages or compensation for employment. Redemption rates and the
    credit cost per model may change; the balance shown by the maintainers'
-   ledger is authoritative.
+   ledger is authoritative. Credits expire 6 months after they are earned,
+   oldest first; credits earned before 2026-11-03 expire 6 months after that
+   date. A balance cannot exceed 3,000 credits: anything earned beyond that is
+   not added.
 
 7. **Ending.** Either side can stop anytime. Your key can be revoked with
    immediate effect; earned-but-unburned credits have no cash payout.
